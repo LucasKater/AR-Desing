@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5b7bf8fa87c26945b28bdceda053abe, type: 3}
+  m_Name: Led-tv
+  m_EditorClassIdentifier: 
+  ItemName: TV LED
+  ItemImage: {fileID: 21300000, guid: 5f3418bad2c0ef742aa59241266d96e5, type: 3}
+  ItemDescription: Smart TV LED
+  Item3DModel: {fileID: 7929376872138021645, guid: 6d9412a8fb7c13f448903950bb061e19, type: 3}

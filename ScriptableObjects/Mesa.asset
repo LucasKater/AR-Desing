@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5b7bf8fa87c26945b28bdceda053abe, type: 3}
+  m_Name: Mesa
+  m_EditorClassIdentifier: 
+  ItemName: Mesa
+  ItemImage: {fileID: 21300000, guid: a636c24041abe3d4c8590aa3d7273946, type: 3}
+  ItemDescription: Mesa de Jantar
+  Item3DModel: {fileID: 590697123413673157, guid: d15a6bdb0220a06408192f9a06d52be8, type: 3}
