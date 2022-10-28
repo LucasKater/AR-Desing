@@ -13,7 +13,7 @@ A linguagem de programação C# (pronuncia-se “C Sharp) é uma linguagem de pr
 
   ![image](https://user-images.githubusercontent.com/113481857/198420236-cdf2ce92-dd80-48d9-a5ad-47f95965b26d.png)
 
-Na tela inicial do app AR Desing como mostrar a Figura 7, o software utiliza a câmera do celular para fazer a detecção de planos, ou seja, verificação se há ou não um espaço plano para que os objetos sejam posicionados corretamente, além dos botões de sair do aplicativo e compartilhamento de imagem. Para o compartilhamento de imagens é utilizado um plugin que é inserido dentro do Unity 3D chamado Native Share  , que auxilia a fazer essa captura da imagem e compartilhamento. Ao ser pressionado o botão do meio, será aberto uma nova aba que é a seleção de itens, como demonstra a figura a baixo.
+Na tela inicial do app AR Desing, o software utiliza a câmera do celular para fazer a detecção de planos, ou seja, verificação se há ou não um espaço plano para que os objetos sejam posicionados corretamente, além dos botões de sair do aplicativo e compartilhamento de imagem. Para o compartilhamento de imagens é utilizado um plugin que é inserido dentro do Unity 3D chamado Native Share  , que auxilia a fazer essa captura da imagem e compartilhamento. Ao ser pressionado o botão do meio, será aberto uma nova aba que é a seleção de itens, como demonstra a figura a baixo.
 
 ![image](https://user-images.githubusercontent.com/113481857/198420298-2cbaf801-e7e9-434f-a2d0-bd39132dd2cf.png)
 
